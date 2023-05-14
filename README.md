@@ -12,4 +12,4 @@ This site was created in order to get familiar with common development tools lik
 
 ## Technology
 
-This project was written in HTML & CSS using Cloud9 and is currently hosted on GitHub pages.
+This project was written in HTML & CSS using CodeAnywhere IDE and is currently hosted on GitHub pages.
